@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+aside{
+	font-family:arial;
+	display:flex;
+	justify-content:space-around;
+}
+.rating-1{
+	display:flex;
+	align-items:center;
+}
+.rating-1>i{
+	font-size:50px;
+}
